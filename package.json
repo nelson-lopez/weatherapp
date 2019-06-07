@@ -1,0 +1,18 @@
+{
+  "name": "weather-to-email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nelson Lopez",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "nodemailer": "^6.2.1",
+    "request": "^2.88.0",
+    "validator": "^11.0.0",
+    "yargs": "^13.2.4"
+  }
+}
